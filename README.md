@@ -30,7 +30,8 @@ O script `guessinggame.sh` desafia o usuário a descobrir o número exato de arq
 
 ## 📂 Estrutura do Projeto
 
+```
 guessinggame/
-│
 ├── guessinggame.sh # Script principal do jogo
 └── README.md # Documentação do projeto
+```
